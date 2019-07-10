@@ -1,0 +1,7 @@
+.ReactModalPortal>div{
+    opacity:0;
+}
+
+.ReactModalPortal .ReactModal__overlay{
+    transition:opacity 200ms ease-in-out;
+}
